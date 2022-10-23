@@ -1,2 +1,6 @@
 # Binary-search-tree
 Binary search tree
+ Binary search tree
+[7,5,1,8,3,6,0,9,4,2]
+ROOT 5 DİR. 5 İN SOLUNDA 3,SAĞINDA 7 BULUNUR. 1 İN SOLUNDA 0,SAĞINDA 2 BULUNUR. 3 ÜN SOLUNDA 1,SAĞINDA 4 BULUNUR.
+7 NİN SOLUNDA 6,SAĞINDA 8 BULUNUR. 8 İN SAĞINDA 9 BULUNUR. 
